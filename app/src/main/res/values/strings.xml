@@ -609,6 +609,9 @@
     <string name="permission_needed">Permission Needed</string>
     <string name="notifications_are_needed_to_use_amber_as_a_nsec_bunker">Notifications are needed to use Amber as a nsec bunker.</string>
     <string name="allow">Allow</string>
+    <string name="app_settings">App settings</string>
+    <string name="camera_permission_title">Camera access needed</string>
+    <string name="camera_permission_message">Amber needs access to your camera to scan QR codes. Allow it here, or turn it on in the app settings.</string>
     <string name="deny">Deny</string>
     <string name="ask">Ask</string>
     <string name="never">Never</string>
